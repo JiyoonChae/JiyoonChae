@@ -1,6 +1,6 @@
 ### Hi I'M Jiyoon 👋
 
-🌱 I’m currently looking for a junior backend developer position.
+🌱 I’m currently looking for a junior backend developer position.<br>
 I've learned Java, Spring framework, Oracle, MySQL, HTML5, CSS3, JavaScript.
 
 <!--
