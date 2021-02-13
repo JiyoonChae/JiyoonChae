@@ -1,5 +1,6 @@
-### Hi I'M Jiyoon 👋
+### Hi I'm Jiyoon 👋
 
+😀 안녕하세요!  도전을 좋아하고 새로운 기술에 관심이 많은 신입 백엔드 개발자입니다. 😃
 🌱 I’m currently looking for a junior backend developer position.<br>
 I've learned Java, Spring framework, Oracle, MySQL, HTML5, CSS3, JavaScript.
 
