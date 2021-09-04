@@ -4,7 +4,7 @@
 
 ---
 🌱 I’m currently looking for a junior backend developer position.<br>
-I've learned Java, Spring framework, Oracle, MySQL, HTML5, CSS3, JavaScript.
+I've learned Kotlin, Java, Spring framework, Oracle, MySQL, HTML5, CSS3, JavaScript.
 
 <!--
 **JiyoonChae/JiyoonChae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
