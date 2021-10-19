@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiyoonChae&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoonChae&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
