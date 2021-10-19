@@ -1,9 +1,10 @@
 ### Hi I'm Jiyoon 👋
 
-😀 안녕하세요!  도전을 좋아하고 새로운 기술에 관심이 많은 신입 백엔드 개발자입니다. 😃<br>
+😀 안녕하세요!  도전을 좋아하고 새로운 기술에 관심이 많은 신입 개발자입니다. 😃<br>
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-db2ad8?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-fcfc23?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-a13000?style=flat-square&logo=Java&logoColor=white"/>
 ---
-🌱 I’m currently looking for a junior backend developer position.<br>
+🌱 I’m currently looking for a junior Android developer and backend developer position.<br>
 I've learned Kotlin, Java, Spring framework, Oracle, MySQL, HTML5, CSS3, JavaScript.
 
 <!--
@@ -26,5 +27,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoonChae&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-db2ad8?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-fcfc23?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-a13000?style=flat-square&logo=Java&logoColor=white"/>
+
 
